@@ -1,3 +1,3 @@
 # Green Level High School AI & Machine Learning Club
 
-Here, you can find all the lessons we do in the club. There are folders for each course, where you can find jupyter notebooks with code and explanation. 
+Here, you can find resources and examples to help you with your club projects. There are folders for each topic, where you can find jupyter notebooks with code and explanation. 
