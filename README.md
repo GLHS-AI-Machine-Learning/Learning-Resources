@@ -3,7 +3,9 @@
 Hello! Here, you can find resources and examples to help you with your club projects. There are folders for each topic, where you can find jupyter notebooks with code and explanation. Below, you can also find meeting slides.
 
 
-## Meeting Slides (Open with your school account to access)
+## Meeting Slides 
+
+(Open with your school account to access)
 
 * [12/17/2021: Project Workday!](https://docs.google.com/presentation/d/165TQRME__IfAPyQDi0ss5RNfDmGxRT7mwULxhcbT_Yo/edit?usp=sharing)
 * [12/10/2021: Titanic Dataset and Project Introduction](https://docs.google.com/presentation/d/1g2d3S8bBrtixDW2lmeNGjCp0b2jEN_ARNOMuGk4Fqtk/edit?usp=sharing)
