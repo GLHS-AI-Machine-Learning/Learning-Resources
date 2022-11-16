@@ -10,6 +10,11 @@ Hello! Here, you can find resources and examples to help you with your club proj
 2022-2023 School Year
 * [9/28/2022: First Meeting](https://docs.google.com/presentation/d/161pPGipFCo3ajw3oY9OkUt5nDtUhra5zzVu5h3TRw7k/edit?usp=sharing)
 * [10/5/2022](https://docs.google.com/presentation/d/1lnmvjW4chSMI8RqNGctzG51vUqf7AYWuhKLAI58lDqc/edit?usp=sharing)
+* [10/19/2022](https://docs.google.com/presentation/d/1Lgo7wA_4FyR0HvUaErYHM8YxKFNsndIylkb588quH6c/edit?usp=share_link)
+* [10/26/2022](https://docs.google.com/presentation/d/1XRLsWBPsasM-K04-1phltmWdvzvCQ-7O1gK5C6TNQAQ/edit?usp=share_link)
+* [11/2/2022](https://docs.google.com/presentation/d/15sPNXU8f-hBKqTfSnwf1UGwYPSTK5nQzRfUOKgZxxM4/edit?usp=share_link)
+* [11/9/2022](https://docs.google.com/presentation/d/1vdSZhx6bFmU60lwots6Gu0SHlkHEZ3wZJaHpjW2_b7g/edit?usp=share_link)
+* [11/16/2022](https://docs.google.com/presentation/d/1pL7VxDds9UZcWVfC99X9I0dbEqCAyflv7SKadWNFyOA/edit?usp=share_link)
 
 2021-2022 School Year
 
