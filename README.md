@@ -15,6 +15,7 @@ Hello! Here, you can find resources and examples to help you with your club proj
 * [11/2/2022](https://docs.google.com/presentation/d/15sPNXU8f-hBKqTfSnwf1UGwYPSTK5nQzRfUOKgZxxM4/edit?usp=share_link)
 * [11/9/2022](https://docs.google.com/presentation/d/1vdSZhx6bFmU60lwots6Gu0SHlkHEZ3wZJaHpjW2_b7g/edit?usp=share_link)
 * [11/16/2022](https://docs.google.com/presentation/d/1pL7VxDds9UZcWVfC99X9I0dbEqCAyflv7SKadWNFyOA/edit?usp=share_link)
+* [11/30/2022](https://docs.google.com/presentation/d/14AF60-gD6N4awwDPgGdLdB28Qs2kjVhyL76vH2NMUBA/edit?usp=sharing)
 
 2021-2022 School Year
 
