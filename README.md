@@ -16,7 +16,7 @@ Hello! Here, you can find resources and examples to help you with your club proj
 * [11/9/2022](https://docs.google.com/presentation/d/1vdSZhx6bFmU60lwots6Gu0SHlkHEZ3wZJaHpjW2_b7g/edit?usp=share_link)
 * [11/16/2022](https://docs.google.com/presentation/d/1pL7VxDds9UZcWVfC99X9I0dbEqCAyflv7SKadWNFyOA/edit?usp=share_link)
 * [11/30/2022](https://docs.google.com/presentation/d/14AF60-gD6N4awwDPgGdLdB28Qs2kjVhyL76vH2NMUBA/edit?usp=sharing)
-
+* [12/7/2022](https://docs.google.com/presentation/d/1MxYSU02766UHcwSBSCbTtlAcbL9-o5T0uMeI2NUEVag/edit?usp=sharing)
 2021-2022 School Year
 
 * [12/17/2021: Project Workday!](https://docs.google.com/presentation/d/165TQRME__IfAPyQDi0ss5RNfDmGxRT7mwULxhcbT_Yo/edit?usp=sharing)
