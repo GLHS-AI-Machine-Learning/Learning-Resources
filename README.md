@@ -8,6 +8,8 @@ Hello! Here, you can find resources and examples to help you with your club proj
 (Open with your school account to access)
 
 2022-2023 School Year
+* [1/4/2023](https://docs.google.com/presentation/d/1Zf4b8nps11Myg0Sfno4b8Pgd__GnNkK_Ha6xxJme9Kk/edit?usp=sharing)
+* [12/14/2022](https://docs.google.com/presentation/d/1WdRCCcg9cGYBFF_wkWBV0CiZeM1aj13v5LlDWBp6ZCg/edit?usp=sharing)
 * [12/7/2022](https://docs.google.com/presentation/d/1MxYSU02766UHcwSBSCbTtlAcbL9-o5T0uMeI2NUEVag/edit?usp=sharing)
 * [11/30/2022](https://docs.google.com/presentation/d/14AF60-gD6N4awwDPgGdLdB28Qs2kjVhyL76vH2NMUBA/edit?usp=sharing)
 * [11/16/2022](https://docs.google.com/presentation/d/1pL7VxDds9UZcWVfC99X9I0dbEqCAyflv7SKadWNFyOA/edit?usp=share_link)
