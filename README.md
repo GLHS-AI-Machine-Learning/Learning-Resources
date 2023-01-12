@@ -1,6 +1,6 @@
 # Green Level High School AI & Machine Learning Club
 
-Hello! Here, you can find resources and examples to help you with your club projects. There are folders for each topic, where you can find jupyter notebooks with code and explanation. Below, you can also find meeting slides.
+Hello! In this repository, you can find resources and examples to help you with your club projects. There are folders for each topic, where you can find Jupyter notebooks with code and explanations. Below, you can also find meeting slides.
 
 
 ## Meeting Slides 
