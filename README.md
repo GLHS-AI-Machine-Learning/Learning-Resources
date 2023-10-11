@@ -10,6 +10,7 @@ Hello! In this repository, you can find resources and examples to help you with 
 2023-2024 School Year
 * [9/27/2023](https://docs.google.com/presentation/d/1u10OA-SLlhYe5NKa6RGLVOW5xluucM3qkTCfwj8LOOs/edit?usp=sharing)
 * [10/4/2023](https://docs.google.com/presentation/d/14RUt6CMyKSuyQA5ZGxEtiKdTjCRhUbUlX5VVhrLvgr0/edit?usp=sharing)
+* [10/11/2023](https://docs.google.com/presentation/d/1jwuBb_Whm-aiurfvx5Hp4Qmwnc8ZaT_Q8s7GBXnaugg/edit?usp=sharing)
 
 2022-2023 School Year
 * [2/15/2023](https://docs.google.com/presentation/d/1IAcS7X3mBUVDiTEvkHFjkotWYk9zi0H-Uj3fqlHC81g/edit?usp=sharing)
