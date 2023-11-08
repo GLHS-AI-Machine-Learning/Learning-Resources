@@ -12,6 +12,7 @@ Hello! In this repository, you can find resources and examples to help you with 
 * [10/4/2023](https://docs.google.com/presentation/d/14RUt6CMyKSuyQA5ZGxEtiKdTjCRhUbUlX5VVhrLvgr0/edit?usp=sharing)
 * [10/11/2023](https://docs.google.com/presentation/d/1jwuBb_Whm-aiurfvx5Hp4Qmwnc8ZaT_Q8s7GBXnaugg/edit?usp=sharing)
 * [10/25/2023](https://docs.google.com/presentation/d/1iZwWTR6xUTfCXfVMp_p7mhtvtMwrEkTPbFA4NATMduY/edit?usp=sharing)
+* [11/7/2023](https://docs.google.com/presentation/d/1o_H1mghw9rVGsH1wrYOgn-14SUzmREL94sDj-QBu4ts/edit?usp=sharing)
 
 2022-2023 School Year
 * [2/15/2023](https://docs.google.com/presentation/d/1IAcS7X3mBUVDiTEvkHFjkotWYk9zi0H-Uj3fqlHC81g/edit?usp=sharing)
